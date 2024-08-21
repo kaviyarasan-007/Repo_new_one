@@ -40,4 +40,7 @@ int unknown()
     printf("hi");
     printf("hello");
     printf("done");
+    printf("hello");
+    printf("done");
+    
 }
