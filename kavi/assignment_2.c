@@ -32,7 +32,7 @@ int reverse(int *x,int *ptr,int *edr)
         *(edr-(f-(*x)))=temp;
         i++; 
         *(x--); 
-        //
+        //this comment is added to create a comflict on the file in sourcetree
     }
 }
 int unknown()
