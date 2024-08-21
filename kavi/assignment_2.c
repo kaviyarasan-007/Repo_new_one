@@ -38,4 +38,6 @@ int reverse(int *x,int *ptr,int *edr)
 int unknown()
 {
     printf("hi");
+    printf("hello");
+    printf("done");
 }
