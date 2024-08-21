@@ -35,6 +35,9 @@ int reverse(int *x,int *ptr,int *edr)
         //this comment is added to create a sdffwecomflict in the file
         //comment 2
         //cmt 3
+        //this comment is added to create a gfrtyhrhyfhyfhcomflict on the file in sourcetree
+        
+    
     }
 }
 int unknown()
