@@ -34,6 +34,7 @@ int reverse(int *x,int *ptr,int *edr)
         *(x--); 
         //this comment is added to create a comflict in the file
         //comment 2
+        //cmt 3
     }
 }
 int unknown()
