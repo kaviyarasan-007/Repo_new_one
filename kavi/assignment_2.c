@@ -32,7 +32,7 @@ int reverse(int *x,int *ptr,int *edr)
         *(edr-(f-(*x)))=temp;
         i++; 
         *(x--); 
-        //this comment is added to create a comflict in the file
+        //this comment is added to create a sdffwecomflict in the file
         //comment 2
         //cmt 3
     }
